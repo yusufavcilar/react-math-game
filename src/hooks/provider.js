@@ -125,7 +125,6 @@ const Provider = ({ children }) => {
 
   useEffect(() => {
     localStorage.setItem("tour", JSON.stringify(tour));
-    console.log(tour);
   }, [tour]);
 
   return (

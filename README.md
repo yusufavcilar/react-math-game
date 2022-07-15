@@ -31,7 +31,7 @@ My math-game project that I developed with React.
 
 ### Repository
 
-
+https://github.com/yusufavcilar/react-math-game
 
 ### Licence
 
